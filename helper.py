@@ -10,7 +10,7 @@ import string
 import pandas as pd
 
 from nltk.corpus import stopwords
-from wordlist import populate_custom_stopwords
+from wordlist.wordlist import populate_custom_stopwords
 
 from rapidfuzz import fuzz
 
