@@ -1,6 +1,7 @@
 """
 Directory structure -
-    src/
+    tests/
+    wordlists/
     -- /
     data/
     -- dataset_csv
