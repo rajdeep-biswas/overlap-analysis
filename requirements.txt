@@ -1,0 +1,7 @@
+pandas
+spacy
+rapidfuzz
+dateparser
+spacy_langdetect
+pandarallel
+tqdm
